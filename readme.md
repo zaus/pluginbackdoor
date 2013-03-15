@@ -32,13 +32,13 @@ It does include the `wp-config.php` file to get your database credentials, but o
 
 ## Frequently Asked Questions ##
 
-= Why would you grant this kind of access? =
+### Why would you grant this kind of access? ###
 
 Because sometimes you install plugins that screw up and take down your site.  Then you can't even log in to turn them off (or back on).
 
 And because all the other (older) examples suggest blowing out the entire list, rather than allowing you to selectively manage them.
 
-= How long does the access last? =
+### How long does the access last? ###
 
 You can only continue to submit the form for 1 hour, after that you must start over at the login.
 
@@ -47,7 +47,7 @@ You can only continue to submit the form for 1 hour, after that you must start o
 
 ## Changelog ##
 
-= 0.1 =
+### 0.1 ###
 * First version
 
 ## Upgrade Notice ##
